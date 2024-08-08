@@ -29,7 +29,7 @@ Imports:
     rappdirs,
     stats,
     utils,
-    SeuratObject (>= 5.0.0)
+    SeuratObject (>= 4.0.0)
 Collate:
     'zzz.R'
     'seurat_data.R'
